@@ -5,7 +5,7 @@ Satria Pambudi STE202202924
 ![WhatsApp Image 2024-07-13 at 22 53 28](https://github.com/user-attachments/assets/af874584-6b8b-47b1-a7d3-fc568c86fba6)
 
 
-## 📄 License![WhatsApp Image 2024-07-13 at 22 53 28](https://github.com/user-attachments/assets/9aa2efde-ddd7-447d-a5b0-570bc658e1c1)
+## 📄 License!
 
 
 ```
